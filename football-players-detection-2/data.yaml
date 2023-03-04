@@ -1,0 +1,13 @@
+names:
+- football-players
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: football-players-detection-k8klx
+  url: https://universe.roboflow.com/sathish-p-dqejw/football-players-detection-k8klx/dataset/2
+  version: 2
+  workspace: sathish-p-dqejw
+path: ..football-players-detection-2/
+test: test/images
+train: train/images
+val: valid/images
